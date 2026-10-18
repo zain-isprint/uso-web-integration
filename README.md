@@ -6,7 +6,7 @@ login details on the fly when the user launches an application, use several acco
 the session alive, and sign out cleanly.
 
 > **Disclaimer.** This is not an official i-Sprint product document and has not been reviewed or approved by
-> i-Sprint Engineering. It is provided as is, without warranty, and without any obligation of support,
+> i-Sprint Product Engineering team. It is provided as is, without warranty, and without any obligation of support,
 > testing or regression testing. Read [DISCLAIMER.md](DISCLAIMER.md) before using it.
 
 ## What you get
