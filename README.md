@@ -18,7 +18,7 @@ When the integration is done, a user of your web application:
    a popup, if you prefer);
 3. clicks an application in your portal and has its login filled in by USOClient, with the account your
    application chose, even if the user has never seen that password;
-4. can open the same application with different accounts in different windows;
+4. 4.	open the same application with different accounts in different windows with the option to close the existing window and clearing its session, open an incognito browser window to use a separate session for application that tracks their login session via browser cookie/localStorage, or open another parallel session if the application supports/allow a separate window browser for logging in a different account;
 5. stays signed in while working, and is signed out of USOClient when they sign out of your application.
 
 ## The flow at a glance
